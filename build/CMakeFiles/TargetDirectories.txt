@@ -1,0 +1,7 @@
+/home/ubuntu/Desktop/C++Build/test/pclTest/pclSegLeaf/build/CMakeFiles/install/strip.dir
+/home/ubuntu/Desktop/C++Build/test/pclTest/pclSegLeaf/build/CMakeFiles/install/local.dir
+/home/ubuntu/Desktop/C++Build/test/pclTest/pclSegLeaf/build/CMakeFiles/install.dir
+/home/ubuntu/Desktop/C++Build/test/pclTest/pclSegLeaf/build/CMakeFiles/list_install_components.dir
+/home/ubuntu/Desktop/C++Build/test/pclTest/pclSegLeaf/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Desktop/C++Build/test/pclTest/pclSegLeaf/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/Desktop/C++Build/test/pclTest/pclSegLeaf/build/CMakeFiles/pclSegLeaf.dir
